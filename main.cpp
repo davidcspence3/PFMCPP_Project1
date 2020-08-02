@@ -58,7 +58,7 @@ dog.bark();
 //  action 2:   the dog sits
 dog.sit();
 //  action 3:   the dog rolls over
- dog.rollOver();
+dog.rollOver();
 //  2)
 //  Noun:       airplane
 //  action 1:   the airplane takes off
@@ -66,7 +66,7 @@ airplane.takeOff();
 //  action 2:   the airplane decelerates
 airplane.decelerate;
 //  action 3:   the airplane lands
- airplane.land();
+airplane.land();
 //  3)
 //  Noun:       fish
 //  action 1:   the fish swims
@@ -98,7 +98,7 @@ flower.bud();
 //  action 2:   the flower blooms
 flower.bloom();
 //  action 3:   the flower wilts
- flower.wilt();
+flower.wilt();
 //  7)
 //  Noun:       chef
 //  action 1:   the chef chops
@@ -106,7 +106,7 @@ chef.chop();
 //  action 2:   the chef dices
 chef.dice();
 //  action 3:   the chef peels
- chef.peel();
+chef.peel();
 //  8)
 //  Noun:       clown
 //  action 1:   the clown dances
@@ -114,7 +114,7 @@ clown.dance();
 //  action 2:   the clown frowns
 clown.frown();
 //  action 3:   the clown laughs
- clown.laugh();
+clown.laugh();
 //  9)  
 //  Noun:       cat
 //  action 1:   the cat stretches
@@ -122,7 +122,7 @@ cat.stretch();
 //  action 2:   the cat yawns
 cat.yawn();
 //  action 3:   the cat scratches
- cat.scratch();
+cat.scratch();
 //  10)
 //  Noun:       sun
 //  action 1:   the sun sets
@@ -131,7 +131,14 @@ sun.set();
 sun.rise();
 //  action 3:   the sun explodes
 sun.explode();
-
+//  11)
+//  Noun:       coffeeMachine
+//  action 1:   the coffeeMachine turns one
+coffeeMachine.turnON();
+//  action 2:   the coffeeMachine timer is set
+coffeeMachine.setTimer();
+//  action 3:   the coffeeMachine starts to brew
+coffeeMachine.beginBrew();
 
 #endif
 
