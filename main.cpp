@@ -52,86 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog sits
+dog.sit();
+//  action 3:   the dog rolls over
+dog.rollOver();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       airplane
+//  action 1:   the airplane takes off
+airplane.takeOff();
+//  action 2:   the airplane decelerates
+airplane.decelerate;
+//  action 3:   the airplane lands
+airplane.land();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fish
+//  action 1:   the fish swims
+fish.swim();
+//  action 2:   the fish eats
+fish.eat();
+//  action 3:   the fish hides
+fish.hide();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       coffeeMachine
+//  action 1:   the coffeeMachine detects water level
+coffeeMachine.checkWaterLevel();
+//  action 2:   the coffeeMachine timer is set
+coffeeMachine.setTimer();
+//  action 3:   the coffeeMachine starts to brew
+coffeeMachine.beginBrew();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cashier
+//  action 1:   the cashier scans items
+cashier.scan();
+//  action 2:   the cashier opens register
+cashier.openRegister();
+//  action 3:   the cashier makes change
+cashier.makeChange();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       flower
+//  action 1:   the flower buds
+flower.bud();
+//  action 2:   the flower blooms
+flower.bloom();
+//  action 3:   the flower wilts
+flower.wilt();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       chef
+//  action 1:   the chef chops
+chef.chop();
+//  action 2:   the chef dices
+chef.dice();
+//  action 3:   the chef peels
+chef.peel();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       clown
+//  action 1:   the clown dances
+clown.dance();
+//  action 2:   the clown frowns
+clown.frown();
+//  action 3:   the clown laughs
+clown.laugh();
+//  9)  
+//  Noun:       cat
+//  action 1:   the cat stretches
+cat.stretch();
+//  action 2:   the cat yawns
+cat.yawn();
+//  action 3:   the cat scratches
+cat.scratch();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-
+//  Noun:       sun
+//  action 1:   the sun sets
+sun.set();
+//  action 2:   the sun rises
+sun.rise();
+//  action 3:   the sun explodes
+sun.explode();
 
 #endif
 
