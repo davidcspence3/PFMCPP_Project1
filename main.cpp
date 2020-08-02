@@ -76,13 +76,13 @@ fish.eat();
 //  action 3:   the fish hides
 fish.hide();
 //  4)
-//  Noun:       cloud
-//  action 1:   the cloud forms
-cloud.form();
-//  action 2:   the cloud rains
-cloud.rain();
-//  action 3:   the cloud dissipates
-cloud.dissipate();
+//  Noun:       coffeeMachine
+//  action 1:   the coffeeMachine detects water level
+coffeeMachine.checkWaterLevel();
+//  action 2:   the coffeeMachine timer is set
+coffeeMachine.setTimer();
+//  action 3:   the coffeeMachine starts to brew
+coffeeMachine.beginBrew();
 //  5)
 //  Noun:       cashier
 //  action 1:   the cashier scans items
@@ -131,14 +131,6 @@ sun.set();
 sun.rise();
 //  action 3:   the sun explodes
 sun.explode();
-//  11)
-//  Noun:       coffeeMachine
-//  action 1:   the coffeeMachine turns one
-coffeeMachine.turnON();
-//  action 2:   the coffeeMachine timer is set
-coffeeMachine.setTimer();
-//  action 3:   the coffeeMachine starts to brew
-coffeeMachine.beginBrew();
 
 #endif
 
